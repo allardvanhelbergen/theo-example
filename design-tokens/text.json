@@ -4,14 +4,14 @@
     "category": "text-color"
   },
   "imports": [
-    "./aliases.json"
+    "./colors.json"
   ],
   "props": {
     "COLOR_TEXT": {
-      "value": "{!NEVADA}"
+      "value": "{!N900}"
     },
     "COLOR_TEXT_ALT": {
-      "value": "{!BLUE_BAYOUX}"
+      "value": "{!N800}"
     }
   }
 }

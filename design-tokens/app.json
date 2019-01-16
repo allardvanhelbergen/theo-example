@@ -2,6 +2,7 @@
   "imports": [
     "./aliases.json",
     "./border.json",
+    "./colors.json",
     "./font.json",
     "./spacing.json",
     "./text.json"
